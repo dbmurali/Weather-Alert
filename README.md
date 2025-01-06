@@ -3,7 +3,7 @@
  changes by providing timely alerts through SMS.
 ## Features
 
-- ** Weather Forecast Retrieval:** Retrieves short-term weather forecasts for a specified location.
+- **Weather Forecast Retrieval:** Retrieves short-term weather forecasts for a specified location.
 
 - **Rain Detection:** Analyzes weather codes to determine if rain is forecasted.
 
